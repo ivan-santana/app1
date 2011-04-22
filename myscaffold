@@ -166,4 +166,143 @@ Exiting
 db/*.sqlite3
 log/*.log
 tmp/
-[1m[34m~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                          
+[1m[34m~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[24;63H2[2;1H[?12l[?25h[?25l[24;63H3[3;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;14H[K[24;63H4,1[11CTop[4;23r[4;1H[L[1;24r[24;63H[K[24;63H4,1[11CAll[4;1H[?12l[?25h[?25l*[24;65H2[4;2H[?12l[?25h[?25l*.[24;65H3[4;3H[?12l[?25h[?25l.l[24;65H4[4;4H[?12l[?25h[?25llo[24;65H5[4;5H[?12l[?25h[?25log[24;65H6[4;6H[?12l[?25h[?25l[24;63H5,5[5;5H[?12l[?25h[?25l/*[24;65H6[5;6H[?12l[?25h[?25l**[24;65H7[5;7H[?12l[?25h[?25l*/[24;65H8[5;8H[?12l[?25h[?25l/*[24;65H9[5;9H[?12l[?25h[?25l[6;1H[K[24;63H6,1[6;1H[?12l[?25h[?25lt[24;65H2[6;2H[?12l[?25h[?25ltm[24;65H3[6;3H[?12l[?25h[?25lmp[24;65H4[6;4H[?12l[?25h[?25lp/[24;65H5[6;5H[?12l[?25h[?25l/*[24;65H6[6;6H[?12l[?25h[?25l[7;1H[K[24;63H7,1[7;1H[?12l[?25h[?25ld[24;65H2[7;2H[?12l[?25h[?25ldo[24;65H3[7;3H[?12l[?25h[?25loc[24;65H4[7;4H[?12l[?25h[?25lc/[24;65H5[7;5H[?12l[?25h[?25l/a[24;65H6[7;6H[?12l[?25h[?25lap[24;65H7[7;7H[?12l[?25h[?25lpi[24;65H8[7;8H[?12l[?25h[?25l[8;1H[K[24;63H8,1[8;1H[?12l[?25h[?25ld[24;65H2[8;2H[?12l[?25h[?25ldo[24;65H3[8;3H[?12l[?25h[?25loc[24;65H4[8;4H[?12l[?25h[?25lc/[24;65H5[8;5H[?12l[?25h[?25l/a[24;65H6[8;6H[?12l[?25h[?25lap[24;65H7[8;7H[?12l[?25h[?25lpp[24;65H8[8;8H[?12l[?25h[?25l[9;1H[K[24;63H9,1[9;1H[?12l[?25h[?25l*[24;65H2[9;2H[?12l[?25h[?25l*.[24;65H3[9;3H[?12l[?25h[?25l.s[24;65H4[9;4H[?12l[?25h[?25lsw[24;65H5[9;5H[?12l[?25h[?25lwp[24;65H6[9;6H[?12l[?25h[?25l[10;1H[K[24;63H10,1[10;1H[?12l[?25h[?25l*[24;66H2[10;2H[?12l[?25h[?25l*~[24;66H3[10;3H[?12l[?25h[?25l[11;1H[K[24;64H1,1[11;1H[?12l[?25h[?25l.[24;66H2[11;2H[?12l[?25h[?25l.D[24;66H3[11;3H[?12l[?25h[?25lDS[24;66H4[11;4H[?12l[?25h[?25lS_[24;66H5[11;5H[?12l[?25h[?25l_S[24;66H6[11;6H[?12l[?25h[?25lSt[24;66H7[11;7H[?12l[?25h[?25lto[24;66H8[11;8H[?12l[?25h[?25lor[24;66H9[11;9H[?12l[?25h[?25lre[24;66H10[11;10H[?12l[?25h[24;1H[K[11;9H[?25l[24;63H11,9[10CAll[11;9H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l".gitignore" 11L, 87C written
+[?1l>[?12l[?25h[?1049l]0;~/RubyonRails/demo_app[demo_app]$ git init
+Initialized empty Git repository in /home/ivan/RubyonRails/demo_app/.git/
+]0;~/RubyonRails/demo_app[demo_app (master)]$ git ass[K[Kdd .
+]0;~/RubyonRails/demo_app[demo_app (master)]$ git status
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#	new file:   README
+#	new file:   Rakefile
+#	new file:   app/controllers/application_controller.rb
+#	new file:   app/helpers/application_helper.rb
+#	new file:   app/views/layouts/application.html.erb
+#	new file:   config.ru
+#	new file:   config/application.rb
+#	new file:   config/boot.rb
+#	new file:   config/database.yml
+#	new file:   config/environment.rb
+#	new file:   config/environments/development.rb
+#	new file:   config/environments/production.rb
+#	new file:   config/environments/test.rb
+#	new file:   config/initializers/backtrace_silencers.rb
+#	new file:   config/initializers/inflections.rb
+#	new file:   config/initializers/mime_types.rb
+#	new file:   config/initializers/secret_token.rb
+#	new file:   config/initializers/session_store.rb
+#	new file:   config/locales/en.yml
+#	new file:   config/routes.rb
+#	new file:   db/seeds.rb
+#	new file:   doc/README_FOR_APP
+#	new file:   lib/tasks/.gitkeep
+#	new file:   myscaffold
+#	new file:   public/404.html
+#	new file:   public/422.html
+#	new file:   public/500.html
+#	new file:   public/favicon.ico
+#	new file:   public/images/rails.png
+#	new file:   public/index.html
+#	new file:   public/javascripts/application.js
+#	new file:   public/javascripts/controls.js
+#	new file:   public/javascripts/dragdrop.js
+#	new file:   public/javascripts/effects.js
+#	new file:   public/javascripts/prototype.js
+#	new file:   public/javascripts/rails.js
+#	new file:   public/robots.txt
+#	new file:   public/stylesheets/.gitkeep
+#	new file:   script/rails
+#	new file:   test/performance/browsing_test.rb
+#	new file:   test/test_helper.rb
+#	new file:   vendor/plugins/.gitkeep
+#
+]0;~/RubyonRails/demo_app[demo_app (master)]$ git commit -m "Initial Commit"
+[master (root-commit) a67f56a] Initial Commit
+ 41 files changed, 10489 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 Gemfile
+ create mode 100644 Gemfile.lock
+ create mode 100644 README
+ create mode 100644 Rakefile
+ create mode 100644 app/controllers/application_controller.rb
+ create mode 100644 app/helpers/application_helper.rb
+ create mode 100644 app/views/layouts/application.html.erb
+ create mode 100644 config.ru
+ create mode 100644 config/application.rb
+ create mode 100644 config/boot.rb
+ create mode 100644 config/database.yml
+ create mode 100644 config/environment.rb
+ create mode 100644 config/environments/development.rb
+ create mode 100644 config/environments/production.rb
+ create mode 100644 config/environments/test.rb
+ create mode 100644 config/initializers/backtrace_silencers.rb
+ create mode 100644 config/initializers/inflections.rb
+ create mode 100644 config/initializers/mime_types.rb
+ create mode 100644 config/initializers/secret_token.rb
+ create mode 100644 config/initializers/session_store.rb
+ create mode 100644 config/locales/en.yml
+ create mode 100644 config/routes.rb
+ create mode 100644 db/seeds.rb
+ create mode 100644 doc/README_FOR_APP
+ create mode 100644 lib/tasks/.gitkeep
+ create mode 100644 myscaffold
+ create mode 100644 public/404.html
+ create mode 100644 public/422.html
+ create mode 100644 public/500.html
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/images/rails.png
+ create mode 100644 public/index.html
+ create mode 100644 public/javascripts/application.js
+ create mode 100644 public/javascripts/controls.js
+ create mode 100644 public/javascripts/dragdrop.js
+ create mode 100644 public/javascripts/effects.js
+ create mode 100644 public/javascripts/prototype.js
+ create mode 100644 public/javascripts/rails.js
+ create mode 100644 public/robots.txt
+ create mode 100644 public/stylesheets/.gitkeep
+ create mode 100755 script/rails
+ create mode 100644 test/performance/browsing_test.rb
+ create mode 100644 test/test_helper.rb
+ create mode 100644 vendor/plugins/.gitkeep
+]0;~/RubyonRails/demo_app[demo_app (master)]$ git remote add origin git@github.com:ivan-santana/demo_app. git
+]0;~/RubyonRails/demo_app[demo_app (master)]$ git push -u origin master
+Counting objects: 64, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/50)   Compressing objects:   4% (2/50)   Compressing objects:   6% (3/50)   Compressing objects:   8% (4/50)   Compressing objects:  10% (5/50)   Compressing objects:  12% (6/50)   Compressing objects:  14% (7/50)   Compressing objects:  16% (8/50)   Compressing objects:  18% (9/50)   Compressing objects:  20% (10/50)   Compressing objects:  22% (11/50)   Compressing objects:  24% (12/50)   Compressing objects:  26% (13/50)   Compressing objects:  28% (14/50)   Compressing objects:  30% (15/50)   Compressing objects:  32% (16/50)   Compressing objects:  34% (17/50)   Compressing objects:  36% (18/50)   Compressing objects:  38% (19/50)   Compressing objects:  40% (20/50)   Compressing objects:  42% (21/50)   Compressing objects:  44% (22/50)   Compressing objects:  46% (23/50)   Compressing objects:  48% (24/50)   Compressing objects:  50% (25/50)   Compressing objects:  52% (26/50)   Compressing objects:  54% (27/50)   Compressing objects:  56% (28/50)   Compressing objects:  58% (29/50)   Compressing objects:  60% (30/50)   Compressing objects:  62% (31/50)   Compressing objects:  64% (32/50)   Compressing objects:  66% (33/50)   Compressing objects:  68% (34/50)   Compressing objects:  70% (35/50)   Compressing objects:  72% (36/50)   Compressing objects:  74% (37/50)   Compressing objects:  76% (38/50)   Compressing objects:  78% (39/50)   Compressing objects:  80% (40/50)   Compressing objects:  82% (41/50)   Compressing objects:  84% (42/50)   Compressing objects:  86% (43/50)   Compressing objects:  88% (44/50)   Compressing objects:  90% (45/50)   Compressing objects:  92% (46/50)   Compressing objects:  94% (47/50)   Compressing objects:  96% (48/50)   Compressing objects:  98% (49/50)   Compressing objects: 100% (50/50)   Compressing objects: 100% (50/50), done.
+Writing objects:   1% (1/64)   Writing objects:   3% (2/64)   Writing objects:   4% (3/64)   Writing objects:   6% (4/64)   Writing objects:   7% (5/64)   Writing objects:   9% (6/64)   Writing objects:  10% (7/64)   Writing objects:  12% (8/64)   Writing objects:  14% (9/64)   Writing objects:  15% (10/64)   Writing objects:  17% (11/64)   Writing objects:  18% (12/64)   Writing objects:  20% (13/64)   Writing objects:  21% (14/64)   Writing objects:  23% (15/64)   Writing objects:  25% (16/64)   Writing objects:  26% (17/64)   Writing objects:  28% (18/64)   Writing objects:  29% (19/64)   Writing objects:  31% (20/64)   Writing objects:  32% (21/64)   Writing objects:  34% (22/64)   Writing objects:  35% (23/64)   Writing objects:  37% (24/64)   Writing objects:  39% (25/64)   Writing objects:  40% (26/64)   Writing objects:  42% (27/64)   Writing objects:  43% (28/64)   Writing objects:  45% (29/64)   Writing objects:  46% (30/64)   Writing objects:  48% (31/64)   Writing objects:  50% (32/64)   Writing objects:  51% (33/64)   Writing objects:  53% (34/64)   Writing objects:  54% (35/64)   Writing objects:  56% (36/64)   Writing objects:  57% (37/64)   Writing objects:  59% (38/64)   Writing objects:  60% (39/64)   Writing objects:  62% (40/64)   Writing objects:  64% (41/64)   Writing objects:  65% (42/64)   Writing objects:  67% (43/64)   Writing objects:  68% (44/64)   Writing objects:  70% (45/64)   Writing objects:  71% (46/64)   Writing objects:  73% (47/64)   Writing objects:  75% (48/64)   Writing objects:  76% (49/64)   Writing objects:  78% (50/64)   Writing objects:  79% (51/64)   Writing objects:  81% (52/64)   Writing objects:  82% (53/64)   Writing objects:  84% (54/64)   Writing objects:  85% (55/64)   Writing objects:  87% (56/64)   Writing objects:  89% (57/64)   Writing objects:  90% (58/64)   Writing objects:  92% (59/64)   Writing objects:  93% (60/64)   Writing objects:  95% (61/64)   Writing objects:  96% (62/64)   Writing objects:  98% (63/64)   Writing objects: 100% (64/64)   Writing objects: 100% (64/64), 89.66 KiB, done.
+Total 64 (delta 2), reused 0 (delta 0)
+To git@github.com:ivan-santana/demo_app.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/RubyonRails/demo_app[demo_app (master)]$ vim README 
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"README" 256L, 9126C[>c[1;1H== Welcome to Rails
+
+Rails is a web-application framework that includes everything needed to create
+database-backed web applications according to the Model-View-Control pattern.
+
+This pattern splits the view (also called the presentation) into "dumb"
+templates that are primarily responsible for inserting pre-built data in between[8;1HHTML tags. The model contains the "smart" domain objects (such as Account,
+Product, Person, Post) that holds all the business logic and knows how to
+persist themselves to a database. The controller handles the incoming requests
+(such as Save New Account, Update Product, Show Post) by manipulating the model
+and directing data to the view.
+
+In Rails, the model is handled by what's called an object-relational mapping
+layer entitled Active Record. This layer allows you to present the data from
+database rows as objects and embellish these data objects with business logic
+methods. You can read more about Active Record in
+link:files/vendor/rails/activerecord/README.html.
+
+The controller and view are handled by the Action Pack, which handles both
+layers by its two parts: Action View and Action Controller. These two layers
+are bundled in a single package due to their heavy interdependence. This is
+unlike the relationship between the Active Record and Action Pack that is much[24;63H1,1[11CTop[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[1;1H[K[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H--No lines in buffer--[24;63H[K[24;63H0,0-1[9CAll[1;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?12l[?25h[?25l#[24;63H1,2[1;2H[?12l[?25h[?25l[24;65H3[1;3H[?12l[?25h[?25l R[24;65H4[1;4H[?12l[?25h[?25lRu[24;65H5[1;5H[?12l[?25h[?25lub[24;65H6[1;6H[?12l[?25h[?25lby[24;65H7[1;7H[?12l[?25h[?25l[24;65H8[1;8H[?12l[?25h[?25l o[24;65H9[1;9H[?12l[?25h[?25lon[24;65H10[1;10H[?12l[?25h[?25l[24;66H1[1;11H[?12l[?25h[?25l R[24;66H2[1;12H[?12l[?25h[?25lRa[24;66H3[1;13H[?12l[?25h[?25lai[24;66H4[1;14H[?12l[?25h[?25lil[24;66H5[1;15H[?12l[?25h[?25l[24;66H6[1;16H[?12l[?25h[?25l[24;66H5[1;15H[?12l[?25h[?25lls[24;66H6[1;16H[?12l[?25h[?25l[24;66H7[1;17H[?12l[?25h[?25l T[24;66H8[1;18H[?12l[?25h[?25lTu[24;66H9[1;19H[?12l[?25h[?25lut[24;65H20[1;20H[?12l[?25h[?25ltp[24;66H1[1;21H[?12l[?25h[?25l[1;20H[K[24;66H0[1;20H[?12l[?25h[?25lto[24;66H1[1;21H[?12l[?25h[?25lor[24;66H2[1;22H[?12l[?25h[?25lri[24;66H3[1;23H[?12l[?25h[?25lio[24;66H4[1;24H[?12l[?25h[?25l[1;23H[K[24;66H3[1;23H[?12l[?25h[?25lia[24;66H4[1;24H[?12l[?25h[?25lal[24;66H5[1;25H[?12l[?25h[?25ll;[24;66H6[1;26H[?12l[?25h[?25l[1;25H[K[24;66H5[1;25H[?12l[?25h[?25ll:[24;66H6[1;26H[?12l[?25h[?25l[24;66H7[1;27H[?12l[?25h[?25l d[24;66H8[1;28H[?12l[?25h[?25lde[24;66H9[1;29H[?12l[?25h[?25lem[24;65H30[1;30H[?12l[?25h[?25lmm[24;66H1[1;31H[?12l[?25h[?25l[1;30H[K[24;66H0[1;30H[?12l[?25h[?25lmo[24;66H1[1;31H[?12l[?25h[?25l[24;66H2[1;32H[?12l[?25h[?25l a[24;66H3[1;33H[?12l[?25h[?25lap[24;66H4[1;34H[?12l[?25h[?25lpp[24;66H5[1;35H[?12l[?25h[?25l[2;1H[K[24;63H2,1 [2;1H[?12l[?25h[?25l[3;1H[K[24;63H3[3;1H[?12l[?25h[?25lT[24;65H2[3;2H[?12l[?25h[?25lTh[24;65H3[3;3H[?12l[?25h[?25lhi[24;65H4[3;4H[?12l[?25h[?25lis[24;65H5[3;5H[?12l[?25h[?25l[24;65H6[3;6H[?12l[?25h[?25l i[24;65H7[3;7H[?12l[?25h[?25lis[24;65H8[3;8H[?12l[?25h[?25l[24;65H9[3;9H[?12l[?25h[?25l t[24;65H10[3;10H[?12l[?25h[?25lth[24;66H1[3;11H[?12l[?25h[?25lhe[24;66H2[3;12H[?12l[?25h[?25l[24;66H3[3;13H[?12l[?25h[?25l d[24;66H4[3;14H[?12l[?25h[?25lde[24;66H5[3;15H[?12l[?25h[?25lem[24;66H6[3;16H[?12l[?25h[?25lmo[24;66H7[3;17H[?12l[?25h[?25l[24;66H8[3;18H[?12l[?25h[?25l a[24;66H9[3;19H[?12l[?25h[?25lap[24;65H20[3;20H[?12l[?25h[?25lpp[24;66H1[3;21H[?12l[?25h[?25l[24;66H2[3;22H[?12l[?25h[?25l f[24;66H3[3;23H[?12l[?25h[?25lfr[24;66H4[3;24H[?12l[?25h[?25l[3;23H[K[24;66H3[3;23H[?12l[?25h[?25lfo[24;66H4[3;24H[?12l[?25h[?25lor[24;66H5[3;25H[?12l[?25h[?25l[24;66H6[3;26H[?12l[?25h[?25l [[24;66H7[3;27H[?12l[?25h[?25l[*[24;66H8[3;28H[?12l[?25h[?25l*R[24;66H9[3;29H[?12l[?25h[?25lRu[24;65H30[3;30H[?12l[?25h[?25lub[24;66H1[3;31H[?12l[?25h[?25lby[24;66H2[3;32H[?12l[?25h[?25l[24;66H3[3;33H[?12l[?25h[?25l o[24;66H4[3;34H[?12l[?25h[?25lon[24;66H5[3;35H[?12l[?25h[?25l[24;66H6[3;36H[?12l[?25h[?25l R[24;66H7[3;37H[?12l[?25h[?25lRa[24;66H8[3;38H[?12l[?25h[?25lai[24;66H9[3;39H[?12l[?25h[?25lil[24;65H40[3;40H[?12l[?25h[?25lls[24;66H1[3;41H[?12l[?25h[?25l[24;66H2[3;42H[?12l[?25h[?25l T[24;66H3[3;43H[?12l[?25h[?25lTu[24;66H4[3;44H[?12l[?25h[?25lut[24;66H5[3;45H[?12l[?25h[?25lto[24;66H6[3;46H[?12l[?25h[?25lor[24;66H7[3;47H[?12l[?25h[?25lri[24;66H8[3;48H[?12l[?25h[?25lia[24;66H9[3;49H[?12l[?25h[?25lal[24;65H50[3;50H[?12l[?25h[?25ll"[24;66H1[3;51H[?12l[?25h[?25l[3;50H[K[24;66H0[3;50H[?12l[?25h[?25ll:[24;66H1[3;51H[?12l[?25h[?25l[24;66H2[3;52H[?12l[?25h[?25l L[24;66H3[3;53H[?12l[?25h[?25lLe[24;66H4[3;54H[?12l[?25h[?25lea[24;66H5[3;55H[?12l[?25h[?25lar[24;66H6[3;56H[?12l[?25h[?25lrn[24;66H7[3;57H[?12l[?25h[?25l[4;1H[K[24;63H4,1 [4;1H[?12l[?25h[?25lR[24;65H2[4;2H[?12l[?25h[?25lRa[24;65H3[4;3H[?12l[?25h[?25lai[24;65H4[4;4H[?12l[?25h[?25lil[24;65H5[4;5H[?12l[?25h[?25lls[24;65H6[4;6H[?12l[?25h[?25l[24;65H7[4;7H[?12l[?25h[?25l b[24;65H8[4;8H[?12l[?25h[?25lby[24;65H9[4;9H[?12l[?25h[?25l[24;65H10[4;10H[?12l[?25h[?25l e[24;66H1[4;11H[?12l[?25h[?25lex[24;66H2[4;12H[?12l[?25h[?25lxa[24;66H3[4;13H[?12l[?25h[?25lam[24;66H4[4;14H[?12l[?25h[?25lmp[24;66H5[4;15H[?12l[?25h[?25lpl[24;66H6[4;16H[?12l[?25h[?25lle[24;66H7[4;17H[?12l[?25h[?25l[4;16H[K[24;66H6[4;16H[?12l[?25h[?25l[4;15H[K[24;66H5[4;15H[?12l[?25h[?25l[4;14H[K[24;66H4[4;14H[?12l[?25h[?25l[4;13H[K[24;66H3[4;13H[?12l[?25h[?25l[4;12H[K[24;66H2[4;12H[?12l[?25h[?25l[4;11H[K[24;66H1[4;11H[?12l[?25h[?25l[4;10H[K[24;66H0[4;10H[?12l[?25h[?25l E[24;66H1[4;11H[?12l[?25h[?25lEx[24;66H2[4;12H[?12l[?25h[?25lxa[24;66H3[4;13H[?12l[?25h[?25lam[24;66H4[4;14H[?12l[?25h[?25lmp[24;66H5[4;15H[?12l[?25h[?25lpl[24;66H6[4;16H[?12l[?25h[?25lle[24;66H7[4;17H[?12l[?25h[?25le*[24;66H8[4;18H[?12l[?25h[?25l[3;26H[46m[[m[4;17H*[46m][m[24;66H9[4;19H[?12l[?25h[?25l[3;26H[[4;18H][24;65H20[4;20H[?12l[?25h[?25l ([24;66H1[4;21H[?12l[?25h[?25l(h[24;66H2[4;22H[?12l[?25h[?25lht[24;66H3[4;23H[?12l[?25h[?25ltt[24;66H4[4;24H[?12l[?25h[?25ltp[24;66H5[4;25H[?12l[?25h[?25lp:[24;66H6[4;26H[?12l[?25h[?25l:/[24;66H7[4;27H[?12l[?25h[?25l//[24;66H8[4;28H[?12l[?25h[?25l/r[24;66H9[4;29H[?12l[?25h[?25lra[24;65H30[4;30H[?12l[?25h[?25lai[24;66H1[4;31H[?12l[?25h[?25lil[24;66H2[4;32H[?12l[?25h[?25lls[24;66H3[4;33H[?12l[?25h[?25lst[24;66H4[4;34H[?12l[?25h[?25ltu[24;66H5[4;35H[?12l[?25h[?25lut[24;66H6[4;36H[?12l[?25h[?25lto[24;66H7[4;37H[?12l[?25h[?25lor[24;66H8[4;38H[?12l[?25h[?25lri[24;66H9[4;39H[?12l[?25h[?25lia[24;65H40[4;40H[?12l[?25h[?25lal[24;66H1[4;41H[?12l[?25h[?25ll.[24;66H2[4;42H[?12l[?25h[?25l.o[24;66H3[4;43H[?12l[?25h[?25lor[24;66H4[4;44H[?12l[?25h[?25lrg[24;66H5[4;45H[?12l[?25h[?25l[4;20H[46m([m[23Cg[46m)[m[24;66H6[4;46H[?12l[?25h[?25l[4;20H([24C)[24;66H7[4;47H[?12l[?25h[?25l b[24;66H8[4;48H[?12l[?25h[?25lby[24;66H9[4;49H[?12l[?25h[?25l[24;65H50[4;50H[?12l[?25h[?25l [[24;66H1[4;51H[?12l[?25h[?25l[M[24;66H2[4;52H[?12l[?25h[?25lMi[24;66H3[4;53H[?12l[?25h[?25lim[24;66H4[4;54H[?12l[?25h[?25l[4;53H[K[24;66H3[4;53H[?12l[?25h[?25lic[24;66H4[4;54H[?12l[?25h[?25lch[24;66H5[4;55H[?12l[?25h[?25lha[24;66H6[4;56H[?12l[?25h[?25lae[24;66H7[4;57H[?12l[?25h[?25lel[24;66H8[4;58H[?12l[?25h[?25l[24;66H9[4;59H[?12l[?25h[?25l H[24;65H60[4;60H[?12l[?25h[?25lHa[24;66H1[4;61H[?12l[?25h[?25lar[24;66H2[4;62H[?12l[?25h[?25lrt[24;66H3[4;63H[?12l[?25h[?25ltl[24;66H4[4;64H[?12l[?25h[?25l[4;50H[46m[[m[12Cl[46m][m[24;66H5[4;65H[?12l[?25h[?25l[4;50H[[13C][24;66H6[4;66H[?12l[?25h[?25l ([24;66H7[4;67H[?12l[?25h[?25l[46m()[m[24;66H8[4;68H[?12l[?25h[?25l[24;66H7[4;67H[?12l[?25h[?25l[46m([mh[46m)[m[24;66H8[4;68H[?12l[?25h[?25lht[46m)[m[24;66H9[4;69H[?12l[?25h[?25ltt[46m)[m[24;65H70[4;70H[?12l[?25h[?25ltp[46m)[m[24;66H1[4;71H[?12l[?25h[?25lp:[46m)[m[24;66H2[4;72H[?12l[?25h[?25l:/[46m)[m[24;66H3[4;73H[?12l[?25h[?25l//[46m)[m[24;66H4[4;74H[?12l[?25h[?25l[4;66H([7C)[24;66H3[4;73H[?12l[?25h[?25l[4;66H[46m([7C)[m[24;66H4[4;74H[?12l[?25h[?25l/m[46m)[m[24;66H5[4;75H[?12l[?25h[?25lmi[46m)[m[24;66H6[4;76H[?12l[?25h[?25lic[46m)[m[24;66H7[4;77H[?12l[?25h[?25lch[46m)[m[24;66H8[4;78H[?12l[?25h[?25lha[46m)[m[24;66H9[4;79H[?12l[?25h[?25lae[46m)[m[24;65H80[4;80H[?12l[?25h[?25lell[5;1H[46m)[m[5;2H[K[24;66H1[5;1H[?12l[?25h[?25lh[46m)[m[24;66H2[5;2H[?12l[?25h[?25lha[46m)[m[24;66H3[5;3H[?12l[?25h[?25lar[46m)[m[24;66H4[5;4H[?12l[?25h[?25lrt[46m)[m[24;66H5[5;5H[?12l[?25h[?25ltl[46m)[m[24;66H6[5;6H[?12l[?25h[?25ll.[46m)[m[24;66H7[5;7H[?12l[?25h[?25l.c[46m)[m[24;66H8[5;8H[?12l[?25h[?25lco[46m)[m[24;66H9[5;9H[?12l[?25h[?25lom[46m)[m[24;65H90[5;10H[?12l[?25h[?25l[24;66H1[5;11H[?12l[?25h[?25l[4;66H([13Cll[5;1Hh[8C).[24;66H2[5;12H[?12l[?25h[24;1H[K[5;11H[?25l[24;63H4,91[10CAll[5;11H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"README" 4L, 185C written
+[?1l>[?12l[?25h[?1049l]0;~/RubyonRails/demo_app[demo_app (master)]$ git commit -am "Improved the README"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@g[1@i[1@t[1@ [1@m[1@
